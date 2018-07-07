@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PopularMoviesStage1</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="movie_title">Movie title</string>
+    <string name="popular">Popular</string>
+    <string name="released_date">Released Date:</string>
+    <string name="voted_avarage">Voted Avarage:</string>
+    <string name="over_view">Over view:</string>
+</resources>
