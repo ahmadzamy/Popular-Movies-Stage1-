@@ -1,4 +1,3 @@
 # Popular-Movies-Stage1-
-this project is one of the Udacity's Android Nano-degree(Advance Course) Project...
-
+Pleace put Your API KEY at the proper line cone
 
